@@ -18,4 +18,3 @@ rsconnect::deployApp(appFiles = c("app.R", "about.md", "data/AustralianWines.csv
 ## Reproducibility
 `renv::init()` then `renv::snapshot()` to create `renv.lock`.
 
-LLM use: layout boilerplate drafted with help from Claude (Anthropic), reviewed and edited by me.
