@@ -11,4 +11,4 @@
 
 **Packages.** shiny, bslib, fpp3 (tsibble, fable, feasts). See `renv.lock` for versions.
 
-**Acknowledgement.** Boilerplate for the app layout was drafted with help from an LLM (Claude, Anthropic) and then reviewed and edited by me.
+**Acknowledgement.** An LLM (Claude, Anthropic) was used as a supplementary resource to assist with troubleshooting and resolving coding challenges when I encountered difficulties. 
